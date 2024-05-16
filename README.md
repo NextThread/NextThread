@@ -10,15 +10,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nextthread" alt="nextthread" /></a> </p>
 
-- 🔭 I’m currently working on **Bot Automation**
-
-- 🌱 I’m currently learning **DevOps**
-
 - 💬 Ask me about **competitive programming, C++, DSA, Typescript, Nodejs, DevOps**
 
 - 👨‍💻 All of my projects are available at [https://github.com/NextThread](https://github.com/NextThread)
-
-- ⚡ Fun fact **I create new bugs while fixing old ones**
   
 - 📫 How to reach me **anuragr135@gmail.com**
 
