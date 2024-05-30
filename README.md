@@ -10,6 +10,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nextthread" alt="nextthread" /></a> </p>
 
+- ** HTML enabler, Javascript enthusiast, all words in markdown. **
 - 💬 Ask me about **competitive programming, C++, DSA, Typescript, Nodejs, DevOps**
 
 - 👨‍💻 All of my projects are available at [https://github.com/NextThread](https://github.com/NextThread)
