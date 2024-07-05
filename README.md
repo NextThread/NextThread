@@ -1,10 +1,4 @@
 <h1 align="center">Hi 👋, I'm Next Thread</h1>
-<h3 align="center">A Competitive Programmer, Developer, Mentor.</h3>
-<img align="center" alt="Coding" width="300" src="https://media1.tenor.com/images/c0501a3e698bd33966ec1d98cc07048d/tenor.gif?itemid=8595411">
-
-
-
-
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nextthread&label=Profile%20views&color=0e75b6&style=flat" alt="nextthread" /> </p>
 
